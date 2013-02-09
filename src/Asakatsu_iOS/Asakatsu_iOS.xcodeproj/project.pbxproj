@@ -7,147 +7,147 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1317921016C6249000B63DA8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1317920F16C6249000B63DA8 /* UIKit.framework */; };
-		1317921216C6249000B63DA8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1317921116C6249000B63DA8 /* Foundation.framework */; };
-		1317921416C6249000B63DA8 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1317921316C6249000B63DA8 /* CoreGraphics.framework */; };
-		1317921A16C6249000B63DA8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1317921816C6249000B63DA8 /* InfoPlist.strings */; };
-		1317921C16C6249000B63DA8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1317921B16C6249000B63DA8 /* main.m */; };
-		1317922016C6249000B63DA8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1317921F16C6249000B63DA8 /* AppDelegate.m */; };
-		1317922216C6249000B63DA8 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 1317922116C6249000B63DA8 /* Default.png */; };
-		1317922416C6249000B63DA8 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1317922316C6249000B63DA8 /* Default@2x.png */; };
-		1317922616C6249000B63DA8 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1317922516C6249000B63DA8 /* Default-568h@2x.png */; };
-		1317922E16C6249000B63DA8 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1317922D16C6249000B63DA8 /* SenTestingKit.framework */; };
-		1317922F16C6249000B63DA8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1317920F16C6249000B63DA8 /* UIKit.framework */; };
-		1317923016C6249000B63DA8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1317921116C6249000B63DA8 /* Foundation.framework */; };
-		1317923816C6249000B63DA8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1317923616C6249000B63DA8 /* InfoPlist.strings */; };
-		1317923B16C6249000B63DA8 /* Asakatsu_iOSTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1317923A16C6249000B63DA8 /* Asakatsu_iOSTests.m */; };
+		1317925416C624FD00B63DA8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1317925316C624FD00B63DA8 /* UIKit.framework */; };
+		1317925616C624FD00B63DA8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1317925516C624FD00B63DA8 /* Foundation.framework */; };
+		1317925816C624FD00B63DA8 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1317925716C624FD00B63DA8 /* CoreGraphics.framework */; };
+		1317925E16C624FD00B63DA8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1317925C16C624FD00B63DA8 /* InfoPlist.strings */; };
+		1317926016C624FD00B63DA8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1317925F16C624FD00B63DA8 /* main.m */; };
+		1317926416C624FD00B63DA8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1317926316C624FD00B63DA8 /* AppDelegate.m */; };
+		1317926616C624FD00B63DA8 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 1317926516C624FD00B63DA8 /* Default.png */; };
+		1317926816C624FD00B63DA8 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1317926716C624FD00B63DA8 /* Default@2x.png */; };
+		1317926A16C624FD00B63DA8 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1317926916C624FD00B63DA8 /* Default-568h@2x.png */; };
+		1317927216C624FD00B63DA8 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1317927116C624FD00B63DA8 /* SenTestingKit.framework */; };
+		1317927316C624FD00B63DA8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1317925316C624FD00B63DA8 /* UIKit.framework */; };
+		1317927416C624FD00B63DA8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1317925516C624FD00B63DA8 /* Foundation.framework */; };
+		1317927C16C624FD00B63DA8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1317927A16C624FD00B63DA8 /* InfoPlist.strings */; };
+		1317927F16C624FD00B63DA8 /* Asakatsu_iOSTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1317927E16C624FD00B63DA8 /* Asakatsu_iOSTests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		1317923116C6249000B63DA8 /* PBXContainerItemProxy */ = {
+		1317927516C624FD00B63DA8 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 1317920216C6249000B63DA8 /* Project object */;
+			containerPortal = 1317924616C624FD00B63DA8 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 1317920A16C6249000B63DA8;
+			remoteGlobalIDString = 1317924E16C624FD00B63DA8;
 			remoteInfo = Asakatsu_iOS;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1317920B16C6249000B63DA8 /* Asakatsu_iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Asakatsu_iOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		1317920F16C6249000B63DA8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		1317921116C6249000B63DA8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		1317921316C6249000B63DA8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		1317921716C6249000B63DA8 /* Asakatsu_iOS-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Asakatsu_iOS-Info.plist"; sourceTree = "<group>"; };
-		1317921916C6249000B63DA8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		1317921B16C6249000B63DA8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		1317921D16C6249000B63DA8 /* Asakatsu_iOS-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Asakatsu_iOS-Prefix.pch"; sourceTree = "<group>"; };
-		1317921E16C6249000B63DA8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		1317921F16C6249000B63DA8 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		1317922116C6249000B63DA8 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
-		1317922316C6249000B63DA8 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
-		1317922516C6249000B63DA8 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		1317922C16C6249000B63DA8 /* Asakatsu_iOSTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Asakatsu_iOSTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
-		1317922D16C6249000B63DA8 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		1317923516C6249000B63DA8 /* Asakatsu_iOSTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Asakatsu_iOSTests-Info.plist"; sourceTree = "<group>"; };
-		1317923716C6249000B63DA8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		1317923916C6249000B63DA8 /* Asakatsu_iOSTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Asakatsu_iOSTests.h; sourceTree = "<group>"; };
-		1317923A16C6249000B63DA8 /* Asakatsu_iOSTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Asakatsu_iOSTests.m; sourceTree = "<group>"; };
+		1317924F16C624FD00B63DA8 /* Asakatsu_iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Asakatsu_iOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1317925316C624FD00B63DA8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		1317925516C624FD00B63DA8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1317925716C624FD00B63DA8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		1317925B16C624FD00B63DA8 /* Asakatsu_iOS-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Asakatsu_iOS-Info.plist"; sourceTree = "<group>"; };
+		1317925D16C624FD00B63DA8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1317925F16C624FD00B63DA8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		1317926116C624FD00B63DA8 /* Asakatsu_iOS-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Asakatsu_iOS-Prefix.pch"; sourceTree = "<group>"; };
+		1317926216C624FD00B63DA8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		1317926316C624FD00B63DA8 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		1317926516C624FD00B63DA8 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		1317926716C624FD00B63DA8 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		1317926916C624FD00B63DA8 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		1317927016C624FD00B63DA8 /* Asakatsu_iOSTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Asakatsu_iOSTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		1317927116C624FD00B63DA8 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		1317927916C624FD00B63DA8 /* Asakatsu_iOSTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Asakatsu_iOSTests-Info.plist"; sourceTree = "<group>"; };
+		1317927B16C624FD00B63DA8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1317927D16C624FD00B63DA8 /* Asakatsu_iOSTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Asakatsu_iOSTests.h; sourceTree = "<group>"; };
+		1317927E16C624FD00B63DA8 /* Asakatsu_iOSTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Asakatsu_iOSTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1317920816C6249000B63DA8 /* Frameworks */ = {
+		1317924C16C624FD00B63DA8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1317921016C6249000B63DA8 /* UIKit.framework in Frameworks */,
-				1317921216C6249000B63DA8 /* Foundation.framework in Frameworks */,
-				1317921416C6249000B63DA8 /* CoreGraphics.framework in Frameworks */,
+				1317925416C624FD00B63DA8 /* UIKit.framework in Frameworks */,
+				1317925616C624FD00B63DA8 /* Foundation.framework in Frameworks */,
+				1317925816C624FD00B63DA8 /* CoreGraphics.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1317922816C6249000B63DA8 /* Frameworks */ = {
+		1317926C16C624FD00B63DA8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1317922E16C6249000B63DA8 /* SenTestingKit.framework in Frameworks */,
-				1317922F16C6249000B63DA8 /* UIKit.framework in Frameworks */,
-				1317923016C6249000B63DA8 /* Foundation.framework in Frameworks */,
+				1317927216C624FD00B63DA8 /* SenTestingKit.framework in Frameworks */,
+				1317927316C624FD00B63DA8 /* UIKit.framework in Frameworks */,
+				1317927416C624FD00B63DA8 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1317920016C6249000B63DA8 = {
+		1317924416C624FD00B63DA8 = {
 			isa = PBXGroup;
 			children = (
-				1317921516C6249000B63DA8 /* Asakatsu_iOS */,
-				1317923316C6249000B63DA8 /* Asakatsu_iOSTests */,
-				1317920E16C6249000B63DA8 /* Frameworks */,
-				1317920C16C6249000B63DA8 /* Products */,
+				1317925916C624FD00B63DA8 /* Asakatsu_iOS */,
+				1317927716C624FD00B63DA8 /* Asakatsu_iOSTests */,
+				1317925216C624FD00B63DA8 /* Frameworks */,
+				1317925016C624FD00B63DA8 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		1317920C16C6249000B63DA8 /* Products */ = {
+		1317925016C624FD00B63DA8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1317920B16C6249000B63DA8 /* Asakatsu_iOS.app */,
-				1317922C16C6249000B63DA8 /* Asakatsu_iOSTests.octest */,
+				1317924F16C624FD00B63DA8 /* Asakatsu_iOS.app */,
+				1317927016C624FD00B63DA8 /* Asakatsu_iOSTests.octest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1317920E16C6249000B63DA8 /* Frameworks */ = {
+		1317925216C624FD00B63DA8 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				1317920F16C6249000B63DA8 /* UIKit.framework */,
-				1317921116C6249000B63DA8 /* Foundation.framework */,
-				1317921316C6249000B63DA8 /* CoreGraphics.framework */,
-				1317922D16C6249000B63DA8 /* SenTestingKit.framework */,
+				1317925316C624FD00B63DA8 /* UIKit.framework */,
+				1317925516C624FD00B63DA8 /* Foundation.framework */,
+				1317925716C624FD00B63DA8 /* CoreGraphics.framework */,
+				1317927116C624FD00B63DA8 /* SenTestingKit.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		1317921516C6249000B63DA8 /* Asakatsu_iOS */ = {
+		1317925916C624FD00B63DA8 /* Asakatsu_iOS */ = {
 			isa = PBXGroup;
 			children = (
-				1317921E16C6249000B63DA8 /* AppDelegate.h */,
-				1317921F16C6249000B63DA8 /* AppDelegate.m */,
-				1317921616C6249000B63DA8 /* Supporting Files */,
+				1317926216C624FD00B63DA8 /* AppDelegate.h */,
+				1317926316C624FD00B63DA8 /* AppDelegate.m */,
+				1317925A16C624FD00B63DA8 /* Supporting Files */,
 			);
 			path = Asakatsu_iOS;
 			sourceTree = "<group>";
 		};
-		1317921616C6249000B63DA8 /* Supporting Files */ = {
+		1317925A16C624FD00B63DA8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				1317921716C6249000B63DA8 /* Asakatsu_iOS-Info.plist */,
-				1317921816C6249000B63DA8 /* InfoPlist.strings */,
-				1317921B16C6249000B63DA8 /* main.m */,
-				1317921D16C6249000B63DA8 /* Asakatsu_iOS-Prefix.pch */,
-				1317922116C6249000B63DA8 /* Default.png */,
-				1317922316C6249000B63DA8 /* Default@2x.png */,
-				1317922516C6249000B63DA8 /* Default-568h@2x.png */,
+				1317925B16C624FD00B63DA8 /* Asakatsu_iOS-Info.plist */,
+				1317925C16C624FD00B63DA8 /* InfoPlist.strings */,
+				1317925F16C624FD00B63DA8 /* main.m */,
+				1317926116C624FD00B63DA8 /* Asakatsu_iOS-Prefix.pch */,
+				1317926516C624FD00B63DA8 /* Default.png */,
+				1317926716C624FD00B63DA8 /* Default@2x.png */,
+				1317926916C624FD00B63DA8 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		1317923316C6249000B63DA8 /* Asakatsu_iOSTests */ = {
+		1317927716C624FD00B63DA8 /* Asakatsu_iOSTests */ = {
 			isa = PBXGroup;
 			children = (
-				1317923916C6249000B63DA8 /* Asakatsu_iOSTests.h */,
-				1317923A16C6249000B63DA8 /* Asakatsu_iOSTests.m */,
-				1317923416C6249000B63DA8 /* Supporting Files */,
+				1317927D16C624FD00B63DA8 /* Asakatsu_iOSTests.h */,
+				1317927E16C624FD00B63DA8 /* Asakatsu_iOSTests.m */,
+				1317927816C624FD00B63DA8 /* Supporting Files */,
 			);
 			path = Asakatsu_iOSTests;
 			sourceTree = "<group>";
 		};
-		1317923416C6249000B63DA8 /* Supporting Files */ = {
+		1317927816C624FD00B63DA8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				1317923516C6249000B63DA8 /* Asakatsu_iOSTests-Info.plist */,
-				1317923616C6249000B63DA8 /* InfoPlist.strings */,
+				1317927916C624FD00B63DA8 /* Asakatsu_iOSTests-Info.plist */,
+				1317927A16C624FD00B63DA8 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -155,13 +155,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1317920A16C6249000B63DA8 /* Asakatsu_iOS */ = {
+		1317924E16C624FD00B63DA8 /* Asakatsu_iOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1317923E16C6249000B63DA8 /* Build configuration list for PBXNativeTarget "Asakatsu_iOS" */;
+			buildConfigurationList = 1317928216C624FD00B63DA8 /* Build configuration list for PBXNativeTarget "Asakatsu_iOS" */;
 			buildPhases = (
-				1317920716C6249000B63DA8 /* Sources */,
-				1317920816C6249000B63DA8 /* Frameworks */,
-				1317920916C6249000B63DA8 /* Resources */,
+				1317924B16C624FD00B63DA8 /* Sources */,
+				1317924C16C624FD00B63DA8 /* Frameworks */,
+				1317924D16C624FD00B63DA8 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -169,79 +169,79 @@
 			);
 			name = Asakatsu_iOS;
 			productName = Asakatsu_iOS;
-			productReference = 1317920B16C6249000B63DA8 /* Asakatsu_iOS.app */;
+			productReference = 1317924F16C624FD00B63DA8 /* Asakatsu_iOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		1317922B16C6249000B63DA8 /* Asakatsu_iOSTests */ = {
+		1317926F16C624FD00B63DA8 /* Asakatsu_iOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1317924116C6249000B63DA8 /* Build configuration list for PBXNativeTarget "Asakatsu_iOSTests" */;
+			buildConfigurationList = 1317928516C624FD00B63DA8 /* Build configuration list for PBXNativeTarget "Asakatsu_iOSTests" */;
 			buildPhases = (
-				1317922716C6249000B63DA8 /* Sources */,
-				1317922816C6249000B63DA8 /* Frameworks */,
-				1317922916C6249000B63DA8 /* Resources */,
-				1317922A16C6249000B63DA8 /* ShellScript */,
+				1317926B16C624FD00B63DA8 /* Sources */,
+				1317926C16C624FD00B63DA8 /* Frameworks */,
+				1317926D16C624FD00B63DA8 /* Resources */,
+				1317926E16C624FD00B63DA8 /* ShellScript */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				1317923216C6249000B63DA8 /* PBXTargetDependency */,
+				1317927616C624FD00B63DA8 /* PBXTargetDependency */,
 			);
 			name = Asakatsu_iOSTests;
 			productName = Asakatsu_iOSTests;
-			productReference = 1317922C16C6249000B63DA8 /* Asakatsu_iOSTests.octest */;
+			productReference = 1317927016C624FD00B63DA8 /* Asakatsu_iOSTests.octest */;
 			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		1317920216C6249000B63DA8 /* Project object */ = {
+		1317924616C624FD00B63DA8 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0450;
 				ORGANIZATIONNAME = "Masato Minami";
 			};
-			buildConfigurationList = 1317920516C6249000B63DA8 /* Build configuration list for PBXProject "Asakatsu_iOS" */;
+			buildConfigurationList = 1317924916C624FD00B63DA8 /* Build configuration list for PBXProject "Asakatsu_iOS" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = 1317920016C6249000B63DA8;
-			productRefGroup = 1317920C16C6249000B63DA8 /* Products */;
+			mainGroup = 1317924416C624FD00B63DA8;
+			productRefGroup = 1317925016C624FD00B63DA8 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1317920A16C6249000B63DA8 /* Asakatsu_iOS */,
-				1317922B16C6249000B63DA8 /* Asakatsu_iOSTests */,
+				1317924E16C624FD00B63DA8 /* Asakatsu_iOS */,
+				1317926F16C624FD00B63DA8 /* Asakatsu_iOSTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		1317920916C6249000B63DA8 /* Resources */ = {
+		1317924D16C624FD00B63DA8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1317921A16C6249000B63DA8 /* InfoPlist.strings in Resources */,
-				1317922216C6249000B63DA8 /* Default.png in Resources */,
-				1317922416C6249000B63DA8 /* Default@2x.png in Resources */,
-				1317922616C6249000B63DA8 /* Default-568h@2x.png in Resources */,
+				1317925E16C624FD00B63DA8 /* InfoPlist.strings in Resources */,
+				1317926616C624FD00B63DA8 /* Default.png in Resources */,
+				1317926816C624FD00B63DA8 /* Default@2x.png in Resources */,
+				1317926A16C624FD00B63DA8 /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1317922916C6249000B63DA8 /* Resources */ = {
+		1317926D16C624FD00B63DA8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1317923816C6249000B63DA8 /* InfoPlist.strings in Resources */,
+				1317927C16C624FD00B63DA8 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		1317922A16C6249000B63DA8 /* ShellScript */ = {
+		1317926E16C624FD00B63DA8 /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -257,46 +257,46 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1317920716C6249000B63DA8 /* Sources */ = {
+		1317924B16C624FD00B63DA8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1317921C16C6249000B63DA8 /* main.m in Sources */,
-				1317922016C6249000B63DA8 /* AppDelegate.m in Sources */,
+				1317926016C624FD00B63DA8 /* main.m in Sources */,
+				1317926416C624FD00B63DA8 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1317922716C6249000B63DA8 /* Sources */ = {
+		1317926B16C624FD00B63DA8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1317923B16C6249000B63DA8 /* Asakatsu_iOSTests.m in Sources */,
+				1317927F16C624FD00B63DA8 /* Asakatsu_iOSTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		1317923216C6249000B63DA8 /* PBXTargetDependency */ = {
+		1317927616C624FD00B63DA8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 1317920A16C6249000B63DA8 /* Asakatsu_iOS */;
-			targetProxy = 1317923116C6249000B63DA8 /* PBXContainerItemProxy */;
+			target = 1317924E16C624FD00B63DA8 /* Asakatsu_iOS */;
+			targetProxy = 1317927516C624FD00B63DA8 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		1317921816C6249000B63DA8 /* InfoPlist.strings */ = {
+		1317925C16C624FD00B63DA8 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				1317921916C6249000B63DA8 /* en */,
+				1317925D16C624FD00B63DA8 /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
-		1317923616C6249000B63DA8 /* InfoPlist.strings */ = {
+		1317927A16C624FD00B63DA8 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				1317923716C6249000B63DA8 /* en */,
+				1317927B16C624FD00B63DA8 /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -304,7 +304,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		1317923C16C6249000B63DA8 /* Debug */ = {
+		1317928016C624FD00B63DA8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -332,7 +332,7 @@
 			};
 			name = Debug;
 		};
-		1317923D16C6249000B63DA8 /* Release */ = {
+		1317928116C624FD00B63DA8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -354,7 +354,7 @@
 			};
 			name = Release;
 		};
-		1317923F16C6249000B63DA8 /* Debug */ = {
+		1317928316C624FD00B63DA8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -365,7 +365,7 @@
 			};
 			name = Debug;
 		};
-		1317924016C6249000B63DA8 /* Release */ = {
+		1317928416C624FD00B63DA8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -376,7 +376,7 @@
 			};
 			name = Release;
 		};
-		1317924216C6249000B63DA8 /* Debug */ = {
+		1317928616C624FD00B63DA8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Asakatsu_iOS.app/Asakatsu_iOS";
@@ -393,7 +393,7 @@
 			};
 			name = Debug;
 		};
-		1317924316C6249000B63DA8 /* Release */ = {
+		1317928716C624FD00B63DA8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Asakatsu_iOS.app/Asakatsu_iOS";
@@ -413,32 +413,32 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1317920516C6249000B63DA8 /* Build configuration list for PBXProject "Asakatsu_iOS" */ = {
+		1317924916C624FD00B63DA8 /* Build configuration list for PBXProject "Asakatsu_iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1317923C16C6249000B63DA8 /* Debug */,
-				1317923D16C6249000B63DA8 /* Release */,
+				1317928016C624FD00B63DA8 /* Debug */,
+				1317928116C624FD00B63DA8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1317923E16C6249000B63DA8 /* Build configuration list for PBXNativeTarget "Asakatsu_iOS" */ = {
+		1317928216C624FD00B63DA8 /* Build configuration list for PBXNativeTarget "Asakatsu_iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1317923F16C6249000B63DA8 /* Debug */,
-				1317924016C6249000B63DA8 /* Release */,
+				1317928316C624FD00B63DA8 /* Debug */,
+				1317928416C624FD00B63DA8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		1317924116C6249000B63DA8 /* Build configuration list for PBXNativeTarget "Asakatsu_iOSTests" */ = {
+		1317928516C624FD00B63DA8 /* Build configuration list for PBXNativeTarget "Asakatsu_iOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1317924216C6249000B63DA8 /* Debug */,
-				1317924316C6249000B63DA8 /* Release */,
+				1317928616C624FD00B63DA8 /* Debug */,
+				1317928716C624FD00B63DA8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 1317920216C6249000B63DA8 /* Project object */;
+	rootObject = 1317924616C624FD00B63DA8 /* Project object */;
 }

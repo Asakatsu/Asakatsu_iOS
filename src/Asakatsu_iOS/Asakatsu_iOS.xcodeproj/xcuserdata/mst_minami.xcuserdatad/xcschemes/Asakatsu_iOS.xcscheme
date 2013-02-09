@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1317920A16C6249000B63DA8"
+               BlueprintIdentifier = "1317924E16C624FD00B63DA8"
                BuildableName = "Asakatsu_iOS.app"
                BlueprintName = "Asakatsu_iOS"
                ReferencedContainer = "container:Asakatsu_iOS.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1317922B16C6249000B63DA8"
+               BlueprintIdentifier = "1317926F16C624FD00B63DA8"
                BuildableName = "Asakatsu_iOSTests.octest"
                BlueprintName = "Asakatsu_iOSTests"
                ReferencedContainer = "container:Asakatsu_iOS.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1317920A16C6249000B63DA8"
+            BlueprintIdentifier = "1317924E16C624FD00B63DA8"
             BuildableName = "Asakatsu_iOS.app"
             BlueprintName = "Asakatsu_iOS"
             ReferencedContainer = "container:Asakatsu_iOS.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1317920A16C6249000B63DA8"
+            BlueprintIdentifier = "1317924E16C624FD00B63DA8"
             BuildableName = "Asakatsu_iOS.app"
             BlueprintName = "Asakatsu_iOS"
             ReferencedContainer = "container:Asakatsu_iOS.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1317920A16C6249000B63DA8"
+            BlueprintIdentifier = "1317924E16C624FD00B63DA8"
             BuildableName = "Asakatsu_iOS.app"
             BlueprintName = "Asakatsu_iOS"
             ReferencedContainer = "container:Asakatsu_iOS.xcodeproj">
